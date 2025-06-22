@@ -1,5 +1,5 @@
 {
-  "name": "pixelperfect",
+  "name": "purpleperfection",
   "version": "1.0.0",
   "description": "Ein benutzerdefiniertes Spicetify-Theme",
   "private": true,
@@ -11,5 +11,5 @@
     "all": "npm run watch && npm run apply && npm run update"
   },
   "keywords": ["spicetify", "theme", "spotify"],
-  "author": "Flam3Code"
+  "author": "xExpand"
 }
